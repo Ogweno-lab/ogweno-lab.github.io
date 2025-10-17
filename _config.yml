@@ -24,13 +24,13 @@ repository               : "ogweno-lab/ogweno-lab.github.io"
 author:
   # Biographic information
   avatar           : "ogweno_profile0.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Ogweno E. Otieno"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Robotics Engineer"
+  location         : "Nairobi"
+  employer         : "Self"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ogweno.immanuel@gmail.com" 
 
   # Academic websites
   academia         : # URL
